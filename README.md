@@ -4,6 +4,7 @@
 
 - Clone the repo using `git clone https://github.com/tirth-2001/question-generator.git`
 - In the root directory of the project, run `npm install`
+- After the libraries are installed, execute `npm start` command.
 - Once the file run successfully, open the following URL in your browser `http://localhost:8080/doc`
 - In the above page you can see the Models and API Routes which can be executed right in the browser.
 
