@@ -1,0 +1,169 @@
+[{
+        "name": "What is the speed of light",
+        "subject": "Physics",
+        "topic": "Waves",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "name": "What is formula of Pythagoros Theorem",
+        "subject": "Maths",
+        "topic": "Theorems",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "name": "What's the fifth planet from the sun?",
+        "subject": "Physics",
+        "topic": "Planets",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "name": "When was the first airplane created?",
+        "subject": "General Knowledge",
+        "topic": "Other",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "name": "When did columbus discover the Americas?",
+        "subject": "History",
+        "topic": "Medieval",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "What is the formula for finding the volume of a cube?",
+        "subject": "Maths",
+        "topic": "Algebra",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "What is the speed of sound",
+        "subject": "Physics",
+        "topic": "Waves",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "name": "What is molecular mass of Nitrogen",
+        "subject": "Chemistry",
+        "topic": "Atoms",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "Name any 5 omnivores animals",
+        "subject": "Biology",
+        "topic": "Animals",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "name": "What is kids of Lion are called ?",
+        "subject": "Biology",
+        "topic": "Animals",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "name": "What is birthdate of Mahatma Gandhi",
+        "subject": "History",
+        "topic": "Freedom Fighters",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "name": "What is birthdate of Sardar Patel",
+        "subject": "History",
+        "topic": "Freedom Fighters",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "What is the capital of Singapore",
+        "subject": "Geography",
+        "topic": "Countries",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "name": "What is a obtuse angle?",
+        "subject": "Maths",
+        "topic": "Angles",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "name": "What is the radius of a circle?",
+        "subject": "Maths",
+        "topic": "Circles",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "Who invented sony?",
+        "subject": "Science and Technology",
+        "topic": "Inventions",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "Atomic Number of Sodium",
+        "subject": "Chemistry",
+        "topic": "Atoms",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "What are by products of Pyrolysis?",
+        "subject": "Chemistry",
+        "topic": "Reactions",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "name": "For whom is america named?",
+        "subject": "General Knowledge",
+        "topic": "General",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "What is the formula for finding the surface area of a sphere?",
+        "subject": "Maths",
+        "topic": "Area",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "Name any one moon of Jupiter",
+        "subject": "Physics",
+        "topic": "Planets",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "name": "Who is father of the nation?",
+        "subject": "General Knowledge",
+        "topic": "Personality",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "name": "What's the eighth planet?",
+        "subject": "Physics",
+        "topic": "Planets",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "name": "Who was the sixth president of the united states of a america?",
+        "subject": "General Knowledge",
+        "topic": "Personality",
+        "difficulty": "hard",
+        "marks": 15
+    }
+]
