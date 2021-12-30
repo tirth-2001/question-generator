@@ -1,0 +1,30 @@
+{
+    "name": "question-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node swagger.js && nodemon app.js",
+        "swagger-autogen": "node swagger.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tirth-2001/question-generator.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tirth-2001/question-generator/issues"
+    },
+    "homepage": "https://github.com/tirth-2001/question-generator#readme",
+    "dependencies": {
+        "body-parser": "^1.19.1",
+        "cors": "^2.8.5",
+        "express": "^4.17.2",
+        "nodemon": "^2.0.15",
+        "swagger-autogen": "^2.17.2",
+        "swagger-ui-express": "^4.3.0"
+    }
+}
