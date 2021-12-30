@@ -10,7 +10,7 @@ const doc = {
         description: 'API Documentation',
     },
     host: 'localhost:8080',
-    basePath: '/',
+    basePath: '/api/v1',
     schemes: ['http', 'https'],
     consumes: ['application/json'],
     produces: ['application/json'],
@@ -20,7 +20,7 @@ const doc = {
     }, ],
 
     definitions: {
-        User: {
+        Question: {
             question: 'What is the speed of light',
             subject: 'Physics',
             topic: 'Waves',

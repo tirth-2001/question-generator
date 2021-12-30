@@ -6,7 +6,7 @@
     "description": "API Documentation"
   },
   "host": "localhost:8080",
-  "basePath": "/",
+  "basePath": "/api/v1",
   "tags": [
     {
       "name": "Question",
@@ -26,9 +26,32 @@
   "paths": {
     "/generate-questions": {
       "get": {
-        "tags": [],
-        "description": "",
-        "parameters": [],
+        "tags": [
+          "Question"
+        ],
+        "description": "Endpoint to generate questions. Click on <b>Try it out</b> button to generate questions. You can enter below parameters to customize output questions.",
+        "parameters": [
+          {
+            "name": "totalMarks",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "easyPercentage",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "mediumPercentage",
+            "in": "query",
+            "type": "string"
+          },
+          {
+            "name": "hardPercentage",
+            "in": "query",
+            "type": "string"
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -38,7 +61,7 @@
     }
   },
   "definitions": {
-    "User": {
+    "Question": {
       "type": "object",
       "properties": {
         "question": {
